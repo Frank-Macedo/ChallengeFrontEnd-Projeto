@@ -1,0 +1,50 @@
+.initialposition {
+    display: inline-block;
+    margin: 3%;
+    width: 1440px;
+    border-radius: 0px;
+}
+
+#search {
+    height: 40px;
+    padding: 0 0 0 20px;
+    width: 393px;
+    margin: 0 2px 0 60px;
+    border-radius: 20px;
+}
+
+#btnsubmit {
+    border: none;
+    background: white;
+    margin: 1px 36px 0px -34px;
+}
+
+#login {
+    height: 41px;
+    width: 15%;
+    margin: 0 0 0 417px;
+    background: none;
+    color: rgb(0, 195, 255);
+    border-color: rgb(0, 195, 255);
+}
+
+#login:hover {
+    background: rgba(0, 255, 234, 0.781);
+    color: rgb(0, 38, 255);
+    font-weight: bold;
+}
+
+.contatos {
+    background: #DAF6FF;
+    width: 1440px;
+    display: inline-block;
+    padding: 2% 8%;
+    margin: 2% 8%;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
